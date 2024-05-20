@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9387B6B6-E21B-4B93-95B4-453B600F5EB3}|DeterminantSolver\\DeterminantSolver.csproj|C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\determinantsolver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9387B6B6-E21B-4B93-95B4-453B600F5EB3}|DeterminantSolver\\DeterminantSolver.csproj|solutionrelative:determinantsolver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85405923-7692-4B40-A626-D7B0E63F0747}|MethodGauss\\MethodGauss.csproj|c:\\users\\cv_vn\\source\\repos\\determinantsolver\\methodgauss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85405923-7692-4B40-A626-D7B0E63F0747}|MethodGauss\\MethodGauss.csproj|solutionrelative:methodgauss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9387B6B6-E21B-4B93-95B4-453B600F5EB3}|DeterminantSolver\\DeterminantSolver.csproj|c:\\users\\cv_vn\\source\\repos\\determinantsolver\\determinantsolver\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9387B6B6-E21B-4B93-95B4-453B600F5EB3}|DeterminantSolver\\DeterminantSolver.csproj|solutionrelative:determinantsolver\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\DeterminantSolver\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DeterminantSolver\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\DeterminantSolver\\App.xaml.cs",
+              "RelativeToolTip": "DeterminantSolver\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:50:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\MethodGauss\\Class1.cs",
+              "RelativeDocumentMoniker": "MethodGauss\\Class1.cs",
+              "ToolTip": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\MethodGauss\\Class1.cs",
+              "RelativeToolTip": "MethodGauss\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:24:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\DeterminantSolver\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeterminantSolver\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cv_vn\\source\\repos\\DeterminantSolver\\DeterminantSolver\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DeterminantSolver\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:18:20.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

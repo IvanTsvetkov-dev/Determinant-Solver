@@ -1,0 +1,6 @@
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\bin\Debug\MethodGauss.dll
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\bin\Debug\MethodGauss.pdb
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\obj\Debug\MethodGauss.csproj.AssemblyReference.cache
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\obj\Debug\MethodGauss.csproj.CoreCompileInputs.cache
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\obj\Debug\MethodGauss.dll
+C:\Users\cv_vn\source\repos\DeterminantSolver\MethodGauss\obj\Debug\MethodGauss.pdb
