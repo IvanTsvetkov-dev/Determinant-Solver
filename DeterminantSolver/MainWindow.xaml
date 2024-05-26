@@ -8,7 +8,7 @@
         Title="DeterminantSolver" Height="400" Width="500
         ">
     <Grid>
-        <Grid x:Name="Matrix" Margin="90,19,90,211">
+        <Grid x:Name="Matrix" Margin="84,53,75,182">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
@@ -40,8 +40,9 @@
 
         </Grid>
 
-        <Button Content="Solve" HorizontalAlignment="Center" Margin="0,207,0,0" VerticalAlignment="Top" Width="96" Click="Button_Click_1"/>
-        <Label x:Name="result" Content="det(A)=" HorizontalAlignment="Left" Margin="12,248,0,0" VerticalAlignment="Top" FontSize="22"/>
-        <Label Content="A  =" HorizontalAlignment="Left" Margin="12,67,0,0" VerticalAlignment="Top" FontSize="22" Height="50" Width="67"/>
+        <Button Content="Solve" HorizontalAlignment="Center" Margin="0,226,0,0" VerticalAlignment="Top" Width="96" Click="Button_Click_1"/>
+        <Label x:Name="determinantMatrixA" Content="det(A)=" HorizontalAlignment="Left" Margin="12,248,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <Label Content="A  =" HorizontalAlignment="Left" Margin="12,103,0,0" VerticalAlignment="Top" FontSize="22" Height="50" Width="67"/>
+        <Button x:Name="OpenFile" Content="Open file" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="OpenFile_Click"/>
     </Grid>
 </Window>
