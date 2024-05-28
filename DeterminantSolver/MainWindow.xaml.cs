@@ -72,6 +72,8 @@ namespace DeterminantSolver
 
             if (result == true)
             {
+                Clear_Elements_Matrix();
+
                 string[] content = MatrixFileOperation.ReadMatrix(openFileDialog);
 
                 Insert_Elements_Matrix(content);
